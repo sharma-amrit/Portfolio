@@ -99,7 +99,7 @@ header {
     display: block; 
     margin-bottom: 0.5rem;
     padding: 0.4rem;
-    background-color: #000;
+    background-color:black;
     /* mix-blend-mode: hard-light; */
     border-radius: 2rem;
     box-shadow: 0 5px 4px rgba(0, 0, 0, 0.25);
@@ -117,8 +117,9 @@ header {
 }
 
 .about{
+   
     height: 25vh;
-    width: 100%;
+    width: auto;
     min-height: 150px;
     font-size: 1em;
     text-align: center;
@@ -129,4 +130,7 @@ header {
     color: white;
     background: black;
 }
- 
+ .body_content{
+    margin-left: 6vw;
+    margin-right: 6vw;
+ }
