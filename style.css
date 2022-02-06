@@ -87,7 +87,7 @@ header {
     background-position-x: right;
     background-position-y: -15vw;
     background-size: 55vw;
-    background-image: url(assets/me.png);
+    background-image: url(https://assets/me.png);
 }
 .floating_media{
     position:fixed;
